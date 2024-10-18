@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Impulsor Denso",
+    "description": "Utilizado para los vehículos VW y Peugeot",
+    "code": "ID1013",
+    "price": 10700,
+    "status": true,
+    "stock": 20,
+    "category": "Impulsores",
+    "thumbnails": [
+      "impulsor1.jpg",
+      "impulsor2.jpg"
+    ]
+  }
+]
